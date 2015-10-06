@@ -1,0 +1,44 @@
+//sockets fix
+60	-1	0	1	1	1	0	0	"Seed (Fire)"		150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+61	-1	0	1	1	1	0	0	"Seed (Water)"		150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+62	-1	0	1	1	1	0	0	"Seed (Ice)"		150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+63	-1	0	1	1	1	0	0	"Seed (Wind)"		150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+64	-1	0	1	1	1	0	0	"Seed (Lightning)"	150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+65	-1	0	1	1	1	0	0	"Seed (Earth)"		150	0	0	0	0	0	0	0	500000	1	1	1	1	1	1	1
+
+70	-1	0	1	1	1	0	0	"Basic Sphere"		102	0	0	0	0	0	0	0	100000	1	1	1	1	1	1	1
+71	-1	0	1	1	1	0	0	"Flawed Sphere"		122	0	0	0	0	0	0	0	150000	1	1	1	1	1	1	1
+72	-1	0	1	1	1	0	0	"Natural Sphere"	132	0	0	0	0	0	0	0	200000	1	1	1	1	1	1	1
+73	-1	0	1	1	1	0	0	"Flawless Sphere"	142	0	0	0	0	0	0	0	250000	1	1	1	1	1	1	1
+74	-1	0	1	1	1	0	0	"Perfect Sphere"	152	0	0	0	0	0	0	0	300000	1	1	1	1	1	1	1
+
+100	-1	0	1	1	1	0	0	"Basic Seed Sphere (Fire)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+101	-1	0	1	1	1	0	0	"Basic Seed Sphere (Water)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+102	-1	0	1	1	1	0	0	"Basic Seed Sphere (Ice)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+103	-1	0	1	1	1	0	0	"Basic Seed Sphere (Wind)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+104	-1	0	1	1	1	0	0	"Basic Seed Sphere (Lightning)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+105	-1	0	1	1	1	0	0	"Basic Seed Sphere (Earth)"	1	0	0	0	0	0	0	0	1050000	1	1	1	1	1	1	1
+106	-1	0	1	1	1	0	0	"Flawed Seed Sphere (Fire)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+107	-1	0	1	1	1	0	0	"Flawed Seed Sphere (Water)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+108	-1	0	1	1	1	0	0	"Flawed Seed Sphere (Ice)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+109	-1	0	1	1	1	0	0	"Flawed Seed Sphere (Wind)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+110	-1	0	1	1	1	0	0	"Seed Sphere (Lightning)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+111	-1	0	1	1	1	0	0	"Flawed Seed Sphere (Earth)"	2	0	0	0	0	0	0	0	1125000	1	1	1	1	1	1	1
+112	-1	0	1	1	1	0	0	"Natural Seed Sphere (Fire)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+113	-1	0	1	1	1	0	0	"Natural Seed Sphere (Water)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+114	-1	0	1	1	1	0	0	"Natural Seed Sphere (Ice)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+115	-1	0	1	1	1	0	0	"Natural Seed Sphere (Wind)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+116	-1	0	1	1	1	0	0	"Seed Sphere (Lightning)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+117	-1	0	1	1	1	0	0	"Natural Seed Sphere (Earth)"	3	0	0	0	0	0	0	0	1200000	1	1	1	1	1	1	1
+118	-1	0	1	1	1	0	0	"Flawless Seed Sphere (Fire)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+119	-1	0	1	1	1	0	0	"Flawless Seed Sphere (Water)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+120	-1	0	1	1	1	0	0	"Flawless Seed Sphere (Ice)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+121	-1	0	1	1	1	0	0	"Flawless Seed Sphere (Wind)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+122	-1	0	1	1	1	0	0	"Seed Sphere (Lightning)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+123	-1	0	1	1	1	0	0	"Flawless Seed Sphere (Earth)"	4	0	0	0	0	0	0	0	1275000	1	1	1	1	1	1	1
+124	-1	0	1	1	1	0	0	"Perfect Seed Sphere (Fire)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
+125	-1	0	1	1	1	0	0	"Perfect Seed Sphere (Water)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
+126	-1	0	1	1	1	0	0	"Perfect Seed Sphere (Ice)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
+127	-1	0	1	1	1	0	0	"Perfect Seed Sphere (Wind)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
+128	-1	0	1	1	1	0	0	"Seed Sphere (Lightning)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
+129	-1	0	1	1	1	0	0	"Perfect Seed Sphere (Earth)"	5	0	0	0	0	0	0	0	1350000	1	1	1	1	1	1	1
